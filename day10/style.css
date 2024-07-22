@@ -1,0 +1,88 @@
+*{
+    font-size: 2rem;
+}
+
+.backGroundColor{
+    width: 200px;  
+    height: 200px;
+    background-color: #aad110;
+}
+
+/* Basic styles */
+body {
+    font-family: sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .wrapper {
+    padding: 20px;
+  }
+  
+  /* pText paragraph */
+  .pText {
+    margin-bottom: 10px;
+  }
+  
+  /* Button styling */
+  button {
+    padding: 10px 20px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  /* Image styling */
+  img {
+    width: 200px;
+    height: auto;
+    display: block;
+    margin-bottom: 10px;
+  }
+  
+  /* Background color element */
+  .backGroundColor {
+    width: 100px;
+    height: 100px;
+    border: 1px solid #ccc;
+    margin-bottom: 10px;
+  }
+  
+  /* Input field styling */
+  input[type="text"] {
+    padding: 5px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    margin-bottom: 10px;
+  }
+  
+  /* Form styling */
+  form {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 10px;
+  }
+  
+  label {
+    margin-bottom: 5px;
+  }
+  
+  /* Select dropdown styling */
+  select {
+    padding: 5px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    margin-bottom: 10px;
+  }
+  
+  /* List styling */
+  ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  li {
+    margin-bottom: 5px;
+  }
+  
